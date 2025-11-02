@@ -1,6 +1,7 @@
 {\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
-{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f37\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
-{\f42\fbidi \fswiss\fcharset0\fprq2 Aptos;}{\f45\fbidi \fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Noto Sans Symbols{\*\falt Calibri};}{\f46\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0502040204020203}Segoe UI Symbol;}
+{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f37\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f42\fbidi \fswiss\fcharset0\fprq2 Aptos;}
+{\f45\fbidi \fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Noto Sans Symbols{\*\falt Calibri};}{\f46\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Segoe UI Symbol;}
 {\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2 Aptos Display;}
 {\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2 Aptos;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
@@ -38,30 +39,52 @@
 {\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
 \red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;\red238\green0\blue0;}{\*\defchp \fs24\kerning2\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap 
 \ql \li0\ri0\sa160\sl278\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa160\sl278\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
-\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning2\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 \styrsid12397010 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning2\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 \styrsid12397010 Normal;}{\*\cs10 \additive \sunhideused \spriority1 
 Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
 \ql \li0\ri0\sa160\sl278\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning2\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 
-\snext11 \ssemihidden \sunhideused Normal Table;}}{\*\listtable{\list\listtemplateid-1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1403660764
-\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li1476\lin1476 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713
-\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2196\lin2196 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715
-\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2916\lin2916 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
-\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3636\lin3636 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713
-\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li4356\lin4356 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715
-\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li5076\lin5076 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
-\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5796\lin5796 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713
-\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li6516\lin6516 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715
-\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li7236\lin7236 }{\listname ;}\listid1040279791}}{\*\listoverridetable{\listoverride\listid1040279791\listoverridecount0\ls1}}{\*\rsidtbl \rsid154471\rsid203750\rsid285798\rsid1073988
-\rsid1210093\rsid1527348\rsid1711966\rsid1861507\rsid2104066\rsid2434935\rsid2901313\rsid3108573\rsid3488052\rsid3699406\rsid3830823\rsid4002703\rsid4130392\rsid4534176\rsid4738429\rsid5275076\rsid5379078\rsid5464826\rsid5592298\rsid5788389\rsid5859036
-\rsid6499329\rsid6760917\rsid6770644\rsid7410836\rsid7612821\rsid7699636\rsid7880455\rsid8126711\rsid8224521\rsid8282249\rsid8919226\rsid8938355\rsid9338379\rsid10295789\rsid10700715\rsid10814186\rsid11282051\rsid11760825\rsid12268094\rsid12397010
-\rsid12784371\rsid13257273\rsid13650452\rsid13848910\rsid13850520\rsid14036298\rsid14238379\rsid14432766\rsid14618369\rsid14691903\rsid15094106\rsid15558176\rsid15933512}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0
-\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\upr{\operator NGUY?N MINH ??C}{\*\ud\uc0{\operator NGUY{\uc1\u7876 ?N MINH \u272 \'d0\u7912 ?C}}}}{\creatim\yr2025\mo4\dy16\hr11\min5}{\revtim\yr2025\mo7\dy22\hr10\min58}{\version17}{\edmins1083}
-{\nofpages10}{\nofwords2055}{\nofchars11714}{\nofcharsws13742}{\vern123}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\snext11 \ssemihidden \sunhideused Normal Table;}{\s15\ql \li0\ri0\widctlpar\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\kerning2\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \slink16 \sunhideused \styrsid7095879 header;}{\*\cs16 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink15 \styrsid7095879 
+Header Char;}{\s17\ql \li0\ri0\widctlpar\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\kerning2\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext17 \slink18 \sunhideused \styrsid7095879 footer;}{\*\cs18 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink17 \styrsid7095879 
+Footer Char;}}{\*\listtable{\list\listtemplateid-1{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }
+{\listname ;}\listid464394517}{\list\listtemplateid-1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1403660764\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \fbias0 \fi-360\li1476\lin1476 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li2196\lin2196 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li2916\lin2916 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li3636\lin3636 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li4356\lin4356 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li5076\lin5076 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li5796\lin5796 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li6516\lin6516 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li7236\lin7236 }{\listname ;}\listid1040279791}}{\*\listoverridetable{\listoverride\listid1040279791\listoverridecount0\ls1}{\listoverride\listid464394517\listoverridecount0\ls2}}{\*\revtbl {Unknown;}}{\*\rsidtbl \rsid154471\rsid203750\rsid285798\rsid544424
+\rsid1073988\rsid1210093\rsid1527348\rsid1711966\rsid1861507\rsid2104066\rsid2434935\rsid2901313\rsid3108573\rsid3488052\rsid3699406\rsid3830823\rsid4002703\rsid4130392\rsid4278817\rsid4534176\rsid4738429\rsid5007351\rsid5140826\rsid5275076\rsid5379078
+\rsid5464826\rsid5592298\rsid5788389\rsid5859036\rsid6499329\rsid6760917\rsid6770644\rsid7095879\rsid7410836\rsid7412561\rsid7612821\rsid7699636\rsid7880455\rsid8126711\rsid8224521\rsid8282249\rsid8919226\rsid8938355\rsid9338379\rsid9577339\rsid10295789
+\rsid10700715\rsid10814186\rsid11282051\rsid11760825\rsid12268094\rsid12397010\rsid12784371\rsid13190130\rsid13257273\rsid13650452\rsid13834079\rsid13848910\rsid13850520\rsid14036298\rsid14228555\rsid14238379\rsid14432766\rsid14618369\rsid14691903
+\rsid15094106\rsid15558176\rsid15933512\rsid16208445}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Duc Nguyen Minh}{\creatim\yr2025\mo4\dy16\hr11\min5}
+{\revtim\yr2025\mo9\dy7\hr10\min5}{\version21}{\edmins1472}{\nofpages10}{\nofwords2075}{\nofchars11834}{\nofcharsws13882}{\vern125}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
-\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale120\rsidroot9338379 \nouicompat \fet0{\*\wgrffmtfilter 2450}\nofeaturethrottle1\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1
-\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
-\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang 
-{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid154471 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang1033\langfe1033\kerning2\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af1\afs31 \ltrch\fcs0 \b\f1\fs31\cf1\kerning0\insrsid8224521 \hich\af1\dbch\af31505\loch\f1 1. Linux Commands 
+\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale120\rsidroot9338379 \nouicompat \fet0{\*\wgrffmtfilter 2450}\nofeaturethrottle1\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7095879 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning2\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14228555 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7095879 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\kerning2\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14228555 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7095879 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\kerning2\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14228555 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7095879 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\kerning2\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14228555 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid154471 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning2\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af1\afs31 \ltrch\fcs0 \b\f1\fs31\cf1\kerning0\insrsid8224521 
+\hich\af1\dbch\af31505\loch\f1 1. Linux Commands 
 \par }\pard \ltrpar\ql \li437\ri0\sb61\nowidctlpar\wrapdefault\faauto\rin0\lin437\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Some Common Linux Commands: 
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \cf6\lang1066\langfe1033\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 1)\tab}}\pard \ltrpar
 \ql \fi-360\li1476\ri0\nowidctlpar\wrapdefault\faauto\ls1\rin0\lin1476\itap0\pararsid5859036 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 ls }{\rtlch\fcs1 \af0 
@@ -97,10 +120,11 @@ c file \'f0\'fd\'f5\'f2\loch\f1307 \hich\f1307 c \'e2\'d2\loch\f1307 n}{\rtlch\f
 \par }\pard \ltrpar\ql \li1092\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1092\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 4}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 cd }{\rtlch\fcs1 
 \ab\ai\af0 \ltrch\fcs0 \b\i\f0\cf6\kerning0\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 dir }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  l}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7879\'3f}{\rtlch\fcs1 \af1307 
-\ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 nh chuy\'ea\'d2\loch\f1307 \hich\f1307 n va\'cc\loch\f1307 \hich\f1307 o th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 c }{\rtlch\fcs1 
-\ab\ai\af0 \ltrch\fcs0 \b\i\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 dir 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7095879 \hich\af0\dbch\af31505\loch\f0 change direct\hich\af0\dbch\af31505\loch\f0 ory, }{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 l}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7879\'3f}{
+\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 nh chuy\'ea\'d2\loch\f1307 \hich\f1307 n va\'cc\loch\f1307 \hich\f1307 o th\'fd\loch\f1307  m}{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 c }{
+\rtlch\fcs1 \ab\ai\af0 \ltrch\fcs0 \b\i\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 dir 
 \par }\pard \ltrpar\ql \fi348\li1092\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1092\itap0\pararsid5379078 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 4}{\rtlch\fcs1 \af0 
 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 1}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
@@ -141,7 +165,8 @@ c file \'f0\'fd\'f5\'f2\loch\f1307 \hich\f1307 c \'e2\'d2\loch\f1307 n}{\rtlch\f
 \par }\pard \ltrpar\ql \li1097\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1097\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 5}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 pwd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 
-\af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  xem }{\rtlch\fcs1 \af1307 \ltrch\fcs0 
+\af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid7095879 \hich\af0\dbch\af31505\loch\f0 print working directory, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 xem }{\rtlch\fcs1 \af1307 \ltrch\fcs0 
 \f1307\cf1\kerning0\insrsid5859036 \loch\af1307\dbch\af31505\hich\f1307 \'f0\'fd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5859036 \loch\af0\dbch\af31505\hich\f0 \u7901\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5859036 
 \hich\af0\dbch\af31505\loch\f0 ng d}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5859036 \loch\af0\dbch\af31505\hich\f0 \u7851\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5859036 \hich\af0\dbch\af31505\loch\f0 n }{\rtlch\fcs1 
 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
@@ -158,7 +183,8 @@ projects}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid5859036 \hic
 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid5859036 \hich\af0\dbch\af31505\loch\f0 /}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 users}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf6\kerning0\insrsid5859036 \hich\af0\dbch\af31505\loch\f0 /}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 : }{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af1307\dbch\af31505\hich\f1307 \'f0\'fd\'f5\'cc\loch\f1307 \hich\f1307 ng d\'e2\'de\loch\f1307 \hich\f1307 n m\'e3
-\'f2\loch\f1307 \hich\f1307 c \'f0\loch\f1307 \hich\f1307 i\'f2\hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 nh khi th\'fd\'f2\loch\f1307 \hich\f1307 c ha\'cc\loch\f1307 nh  EX:  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
+\'f2\loch\f1307 \hich\f1307 c \'f0\loch\f1307 \hich\f1307 i\'f2\loch\f1307 \hich\f1307 nh khi th\'fd\'f2\loch\f1307 \hich\f1307 c ha\'cc}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
+\hich\af0\dbch\af31505\loch\f0 nh  EX:  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }\pard \ltrpar\ql \li1818\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1818\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 - Using 6}{\rtlch\fcs1 \af0\afs26 \ltrch\fcs0 
 \f0\fs26\cf1\super\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 th }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 command to enter users folder. 
 \par \hich\af0\dbch\af31505\loch\f0 - Using 3}{\rtlch\fcs1 \af0\afs26 \ltrch\fcs0 \f0\fs26\cf1\super\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 rd }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
@@ -183,8 +209,9 @@ c va\'cc\loch\f1307  t}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033
 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 
 \par }\pard \ltrpar\ql \fi720\li369\ri315\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin315\lin369\itap0\pararsid5379078 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\ul\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 Note:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\ul\cf1\kerning0\insrsid8224521\charrsid5379078 
-\par }\pard \ltrpar\ql \li1089\ri0\sb6\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  There are 2 ways to set the permission for a folder(directory)}{\rtlch\fcs1 
-\af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 file: 
+\par }\pard \ltrpar\ql \li1089\ri0\sb6\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  There are 2 ways to set the permission for a folder}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\cf1\kerning0\insrsid4278817 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 (directory)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid4278817 
+\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 file: 
 \par }\pard \ltrpar\ql \li1089\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  + Setting permission with Numbers 
 \par \hich\af0\dbch\af31505\loch\f0  + Setting permission with Letters and Symbols 
 \par \hich\af0\dbch\af31505\loch\f0  Below is how to set the permisson with Numbers: 
@@ -206,8 +233,9 @@ c va\'cc\loch\f1307  t}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033
 \par }\pard \ltrpar\qc \li2160\ri2697\nowidctlpar\wrapdefault\faauto\rin2697\lin2160\itap0\pararsid5379078 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0        }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 7}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  Read, write and execute (rwx) 
 
-\par }\pard \ltrpar\ql \li1093\ri468\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin468\lin1093\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 \hich\f0 
-For the setting permission with Letters and Symbols, please use \'93\loch\f0 \hich\f0 man chmod\'94\loch\f0  for  more detail. 
+\par }\pard \ltrpar\ql \fi29\li1080\ri468\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin468\lin1080\itap0\pararsid5140826 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid16208445 \hich\af0\dbch\af31505\loch\f0 Ex: }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf1\kerning0\insrsid16208445\charrsid16208445 \hich\af0\dbch\af31505\loch\f0 chmod 755 filename}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid16208445\charrsid16208445 \hich\af0\dbch\af31505\loch\f0 : Owner has read, write, and execute (7);
+\~group has read and execute (5);\~others have read and execute (5).}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }\pard \ltrpar\ql \li1109\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1109\itap0\pararsid154471 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 8}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 passwd}{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af1299 \ltrch\fcs0 
@@ -260,22 +288,22 @@ ng c}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp10
 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711\charrsid8126711 
 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 b}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 
 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 
-\hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  \'f0}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7893\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 
-i t\'ea\loch\f1307 \hich\f1307 n th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 
-\f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 c ho\'e3\'f2\loch\f1307 \hich\f1307 c file t\'ea\loch\f1307 \hich\f1307 n a sang t\'ea\loch\f1307 n b }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\kerning0\insrsid8224521 
+\hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7095879 \hich\af0\dbch\af31505\loch\f0 
+move, }{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af1307\dbch\af31505\hich\f1307 \'f0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
+\loch\af0\dbch\af31505\hich\f0 \u7893\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 i t\'ea\loch\f1307 \hich\f1307 n th\'fd\loch\f1307  m}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
+\hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 c ho\'e3\'f2\loch\f1307 \hich\f1307 c file t\'ea\loch\f1307 \hich\f1307 n a sang t\'ea\loch\f1307 n b }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 14}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 
-\hich\af0\dbch\af31505\loch\f0 cp }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 
-\hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 
-\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid203750 \hich\af0\dbch\af31505\loch\f0 directory}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 
- copy file a va\'cc\loch\f1307 o }{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\kerning0\insrsid203750 \loch\af1307\dbch\af31505\hich\f1307 \'f0\'fd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid203750 \loch\af0\dbch\af31505\hich\f0 \u7901\'3f}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid203750 \hich\af0\dbch\af31505\loch\f0 ng d}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid203750 \loch\af0\dbch\af31505\hich\f0 \u7851\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\kerning0\insrsid203750 \hich\af0\dbch\af31505\loch\f0 n}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
-
+\hich\af0\dbch\af31505\loch\f0 cp }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid16208445 \hich\af0\dbch\af31505\loch\f0 -rf }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf6\kerning0\insrsid203750 \hich\af0\dbch\af31505\loch\f0 directory}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af1307 \ltrch\fcs0 
+\f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  copy file a va\'cc\loch\f1307 o }{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\kerning0\insrsid203750 \loch\af1307\dbch\af31505\hich\f1307 
+\'f0\'fd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid203750 \loch\af0\dbch\af31505\hich\f0 \u7901\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid203750 \hich\af0\dbch\af31505\loch\f0 ng d}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid203750 \loch\af0\dbch\af31505\hich\f0 \u7851\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid203750 \hich\af0\dbch\af31505\loch\f0 n}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 15}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 ps}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 
@@ -297,8 +325,9 @@ i t\'ea\loch\f1307 \hich\f1307 n th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\f
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 rm }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
-\hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  xoa\'ec\loch\f1307  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \hich\af0\dbch\af31505\loch\f0 file}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7095879 \hich\af0\dbch\af31505\loch\f0 re\hich\af0\dbch\af31505\loch\f0 move, }{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
+\hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 xoa\'ec\loch\f1307  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \hich\af0\dbch\af31505\loch\f0 file}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  a }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \tab \hich\af0\dbch\af31505\loch\f0 17.1) }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid12268094\charrsid12268094 \hich\af0\dbch\af31505\loch\f0 rmdir <directory>/}{\rtlch\fcs1 
 \af1307 \ltrch\fcs0 \f1307\cf1\kerning0\insrsid12268094 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  : x\'f3\loch\f1307 \hich\f1307 a \'f0\'fd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \loch\af0\dbch\af31505\hich\f0 \u7901\'3f}{
@@ -306,7 +335,7 @@ i t\'ea\loch\f1307 \hich\f1307 n th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\f
 \f0\cf1\kerning0\insrsid12268094 \hich\af0\dbch\af31505\loch\f0 n (ch}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \loch\af0\dbch\af31505\hich\f0 \u7881\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\kerning0\insrsid12268094 
 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  khi \'f0\'fd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \loch\af0\dbch\af31505\hich\f0 \u7901\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 
 \hich\af0\dbch\af31505\loch\f0 ng d}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \loch\af0\dbch\af31505\hich\f0 \u7851\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \hich\af0\dbch\af31505\loch\f0 \hich\f0 n ko c\'f3
-\loch\f0 \hich\f0  file b\'ea\hich\af0\dbch\af31505\loch\f0 n trong)
+\loch\f0 \hich\f0  file b\'ea\loch\f0 n trong)
 \par \tab \hich\af0\dbch\af31505\loch\f0 17.2) }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid12268094\charrsid12268094 \hich\af0\dbch\af31505\loch\f0 rm -r <directory>/}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\kerning0\insrsid12268094 
 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  : x\'f3\loch\f1307 \hich\f1307 a \'f0\'fd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \loch\af0\dbch\af31505\hich\f0 \u7901\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid12268094 \hich\af0\dbch\af31505\loch\f0 ng d}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 \loch\af0\dbch\af31505\hich\f0 \u7851\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid12268094 
@@ -328,9 +357,10 @@ i t\'ea\loch\f1307 \hich\f1307 n th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\f
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1527348 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid9338379\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 c}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0  chmod + x }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af1307 \ltrch\fcs0 
-\f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  chuy\'ea\'d2\loch\f1307 \hich\f1307 n file a sang file th\'fd\'f2\loch\f1307 \hich\f1307 c thi( nh\'fd\loch\f1307  file exe) }{\rtlch\fcs1 
-\af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7095879 \hich\af0\dbch\af31505\loch\f0 change mode, }{\rtlch\fcs1 \af1307 \ltrch\fcs0 
+\f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 chuy\'ea\'d2\hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 n file a sang file th\'fd\'f2\loch\f1307 \hich\f1307 c thi( nh\'fd\loch\f1307 
+ file exe) }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }\pard \ltrpar\ql \li1096\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1096\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 20}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 clear}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 
@@ -347,8 +377,7 @@ i t\'ea\loch\f1307 \hich\f1307 n th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\f
 \loch\af0\dbch\af31505\hich\f0 \u7897\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 t file m}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7899\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 i }{\rtlch\fcs1 \af0 
 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1527348 \hich\af0\dbch\af31505\loch\f0 (n}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1527348 \loch\af0\dbch\af31505\hich\f0 \u7871\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1527348 
-\hich\af0\dbch\af31505\loch\f0 \hich\f0 u ko c\'f3\loch\f0 \hich\f0  format th\'ec\loch\f0  s}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1527348 \loch\af0\dbch\af31505\hich\f0 \u7869\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\kerning0\insrsid1527348 \hich\af0\dbch\af31505\loch\f0 \hich\f0  l\'e0\loch\f0  file r}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1527348 \loch\af0\dbch\af31505\hich\f0 \u7895\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 u ko c\'f3\loch\f0 \hich\f0  format th\'ec\loch\f0  file r}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1527348 \loch\af0\dbch\af31505\hich\f0 \u7895\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid1527348 \hich\af0\dbch\af31505\loch\f0 ng)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1527348 \tab \hich\af0\dbch\af31505\loch\f0 21.1) }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid1527348\charrsid1527348 \hich\af0\dbch\af31505\loch\f0 touch -d }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid1527348\charrsid1527348 \hich\af0\dbch\af31505\loch\f0 time}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 
@@ -363,8 +392,9 @@ i t\'ea\loch\f1307 \hich\f1307 n th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\f
 \hich\af0\dbch\af31505\loch\f0 more }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
-\hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  hi\'ea\'d2\loch\f1307 \hich\f1307 n thi\'f2\loch\f1307  file a theo t}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7915\'3f}
-{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 ng trang }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
+\hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  hi\'ea\'d2\loch\f1307 \hich\f1307 n thi\'f2}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  file a theo t}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7915\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 ng trang }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }\pard \ltrpar\ql \fi344\li1096\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1096\itap0\pararsid15933512 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid15933512 \hich\af0\dbch\af31505\loch\f0 22.1) }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf6\kerning0\insrsid15933512\charrsid15933512 \hich\af0\dbch\af31505\loch\f0 less <a>}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid15933512 \hich\af0\dbch\af31505\loch\f0  : hi}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid15933512 
 \loch\af0\dbch\af31505\hich\f0 \u7875\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid15933512 \hich\af0\dbch\af31505\loch\f0 n th}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid15933512 \loch\af0\dbch\af31505\hich\f0 \u7883\'3f}{
@@ -395,11 +425,12 @@ n c}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp106
 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 \hich\f0 grep \'93\loch\f0 \hich\f0 text\'94\loch\f0  }{\rtlch\fcs1 \af0 
 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 \hich\f0  t\'ec\loch\f0 \hich\f0 
-m ki\'ea}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af1307\dbch\af31505\hich\f1307 \'ec\loch\f1307 m chu}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7895\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 
-i text trong file a ho\'e3\'f2\loch\f1307 \hich\f1307 c th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 c a }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7095879 \hich\af0\dbch\af31505\loch\f0  searc\hich\af0\dbch\af31505\loch\f0 h,}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 \hich\f0  t\'ec\loch\f0 \hich\f0 m ki\'ea}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
+\loch\af1307\dbch\af31505\hich\f1307 \'ec\loch\f1307 m chu}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7895\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 
+\f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 i text trong file a ho\'e3\'f2\loch\f1307 \hich\f1307 c th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 c a }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid285798 \tab \hich\af0\dbch\af31505\loch\f0 25.1) }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid285798\charrsid285798 \hich\af0\dbch\af31505\loch\f0 awk \hich\f0 \lquote \{\loch\f0 
 print $<number>\}\hich\f0 \rquote }{\rtlch\fcs1 \af1299 \ltrch\fcs0 \f1299\cf1\kerning0\insrsid285798 \hich\af1299\dbch\af31505\loch\f1299 \hich\f1299  : in \'f0\'fa\loch\f1299 \hich\f1299 ng th\'f4\loch\f1299 ng tin c}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid285798 \loch\af0\dbch\af31505\hich\f0 \u7847\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid285798 \hich\af0\dbch\af31505\loch\f0 n l}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid285798 
@@ -407,18 +438,19 @@ print $<number>\}\hich\f0 \rquote }{\rtlch\fcs1 \af1299 \ltrch\fcs0 \f1299\cf1\k
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 26}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 find -}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0  }{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 \hich\f0 name \'93\loch\f0 \hich\f0 a\'94}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 \hich\f0  t\'ec\hich\af0\dbch\af31505\loch\f0 \hich\f0 m file c\'f3
-\loch\f0 \hich\f0  t\'ea\loch\f0 n la}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af1307\dbch\af31505\hich\f1307 \'cc\loch\f1307 \hich\f1307  a trong th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 
-\hich\f1307 c \'f0\loch\f1307 \hich\f1307 ang \'f0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7913\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 \hich\f0  t\'ec\loch\f0 \hich\f0 m file c\'f3\loch\f0 \hich\f0  t
+\'ea\loch\f0 n la}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af1307\dbch\af31505\hich\f1307 \'cc\loch\f1307 \hich\f1307  a trong th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 c 
+\'f0\loch\f1307 \hich\f1307 ang \'f0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7913\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 ng }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }\pard \ltrpar\ql \fi4\li1091\ri306\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin306\lin1091\itap0\pararsid8126711 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 27}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 cat}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid4002703 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 <file-name>}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid4002703 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 
-\hich\af0\dbch\af31505\loch\f0 hi}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \loch\af0\dbch\af31505\hich\f0 \u7875\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 n th}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \loch\af0\dbch\af31505\hich\f0 \u7883\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0  n}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 
-\loch\af0\dbch\af31505\hich\f0 \u7897\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 i dung file ra terminal}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid4002703 
+\ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid4002703 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7095879 
+\hich\af0\dbch\af31505\loch\f0 concatenate, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 hi}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \loch\af0\dbch\af31505\hich\f0 \u7875\'3f}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0 n th}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \loch\af0\dbch\af31505\hich\f0 \u7883\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid8126711 \hich\af0\dbch\af31505\loch\f0  n}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 \loch\af0\dbch\af31505\hich\f0 \u7897\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8126711 
+\hich\af0\dbch\af31505\loch\f0 i dung file ra terminal}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid4002703 
 \par }\pard \ltrpar\ql \li1099\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1099\itap0\pararsid203750 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid4002703 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid4002703 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid203750 \hich\af0\dbch\af31505\loch\f0 27.1}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid203750 \hich\af0\dbch\af31505\loch\f0 ) }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid203750\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 cat }{\rtlch\fcs1 
@@ -444,7 +476,7 @@ m kha\'ec\loch\f1307 c nhau c}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\lan
 \f0\cf1\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid15558176\charrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid15558176\charrsid5379078 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 
 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid15558176\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 b}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf6\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0 \hich\f0  : so s\'e1\hich\af0\dbch\af31505\loch\f0 nh hai file}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf6\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0 \hich\f0  : so s\'e1\loch\f0 nh hai file}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid15558176\charrsid15558176 
 \par }\pard \ltrpar\ql \li1096\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1096\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 29}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5379078 
 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid5379078 \hich\af0\dbch\af31505\loch\f0 vimdiff }{
@@ -600,7 +632,11 @@ o user m}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid14432766 \loch\af0\db
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0 49) }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid15558176\charrsid15558176 \hich\af0\dbch\af31505\loch\f0 sort}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\kerning0\insrsid15558176 \hich\af0\dbch\af31505\loch\f0  : l}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid15558176 \loch\af0\dbch\af31505\hich\f0 \u7885\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid15558176 
 \hich\af0\dbch\af31505\loch\f0 c file theo alphabet}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid15933512 
-\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs22 \ltrch\fcs0 \f1\fs22\cf1\kerning0\insrsid8224521 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs22 \ltrch\fcs0 \f1\fs22\cf1\kerning0\insrsid5140826 \tab \hich\af1\dbch\af31505\loch\f1     }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid5140826\charrsid5140826 \hich\af0\dbch\af31505\loch\f0 50) }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid5140826\charrsid5140826 \hich\af0\dbch\af31505\loch\f0 date}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid5140826\charrsid5140826 \hich\af0\dbch\af31505\loch\f0 : hi}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5140826\charrsid5140826 \loch\af0\dbch\af31505\hich\f0 \u7875\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid5140826\charrsid5140826 \hich\af0\dbch\af31505\loch\f0 n th}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5140826\charrsid5140826 \loch\af0\dbch\af31505\hich\f0 \u7883\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid5140826\charrsid5140826 \hich\af0\dbch\af31505\loch\f0 \hich\f0  ng\'e0\loch\f0 y }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f0\fs22\cf1\kerning0\insrsid8224521\charrsid5140826 
 \par }\pard \ltrpar\ql \li111\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin111\itap0 {\rtlch\fcs1 \ab\af1317\afs31 \ltrch\fcs0 \b\f1317\fs31\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1317\dbch\af31505\loch\f1317 \hich\f1317 2. S\'fd\'d2
 \loch\f1317 \hich\f1317  Du\'f2\loch\f1317 \hich\f1317 ng Tri\'cc\loch\f1317 \hich\f1317 nh Soa\'f2\loch\f1317 \hich\f1317 n Tha\'d2\loch\f1317 o VI }{\rtlch\fcs1 \ab\af1\afs31 \ltrch\fcs0 \b\f1\fs31\cf1\kerning0\insrsid4002703 
 \hich\af1\dbch\af31505\loch\f1 ho}{\rtlch\fcs1 \ab\af1\afs31 \ltrch\fcs0 \b\f1\fs31\cf1\kerning0\insrsid4002703 \loch\af1\dbch\af31505\hich\f1 \u7863\'3f}{\rtlch\fcs1 \ab\af1\afs31 \ltrch\fcs0 \b\f1\fs31\cf1\kerning0\insrsid4002703 
@@ -629,7 +665,7 @@ o user m}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid14432766 \loch\af0\db
 \rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 n tha\'d2\loch\f1307 o hi}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7879\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 
 n ra nh\'fd\loch\f1307  sau: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
-\par }\pard \ltrpar\ql \li369\ri0\sb19\nowidctlpar\wrapdefault\faauto\rin0\lin369\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li369\ri0\sb19\nowidctlpar\wrapdefault\faauto\rin0\lin369\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 1}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -3038,13 +3074,13 @@ n tha\'d2\loch\f1307 \hich\f1307 o v\'e3\loch\f1307 \hich\f1307 n ba\'d2\loch\f1
 \hich\af0\dbch\af31505\loch\f0 n t}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7880455 \loch\af0\dbch\af31505\hich\f0 \u7841\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7880455 \hich\af0\dbch\af31505\loch\f0 i }{\rtlch\fcs1 \af0 
 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7410836 \hich\af0\dbch\af31505\loch\f0 \hich\f0 m\'e0\loch\f0 \hich\f0  kh\'f4\loch\f0 \hich\f0 ng tho\'e1\loch\f0 t ra kh}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7410836 \loch\af0\dbch\af31505\hich\f0 
 \u7887\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7410836 \hich\af0\dbch\af31505\loch\f0 i vi}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7410836\charrsid7410836 
-\par }\pard \ltrpar\ql \li388\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin388\itap0\pararsid7410836 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7410836\charrsid14238379 \hich\af0\dbch\af31505\loch\f0 : w!  
+\par }\pard \ltrpar\ql \li388\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin388\itap0\pararsid7410836 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7410836\charrsid14238379 \hich\af0\dbch\af31505\loch\f0 :w!  
 \par }\pard \ltrpar\ql \li376\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin376\itap0\pararsid7880455 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid7880455\charrsid13850520 \hich\af0\dbch\af31505\loch\f0 Save as}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid7880455 \hich\af0\dbch\af31505\loch\f0  file }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7880455\charrsid7410836 
-\par }\pard \ltrpar\ql \li388\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin388\itap0\pararsid7880455 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7880455\charrsid14238379 \hich\af0\dbch\af31505\loch\f0 : w <file-name>  
+\par }\pard \ltrpar\ql \li388\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin388\itap0\pararsid7880455 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7880455\charrsid14238379 \hich\af0\dbch\af31505\loch\f0 :w <file-name>  
 \par }\pard \ltrpar\ql \li376\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin376\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid13850520\charrsid13850520 \hich\af0\dbch\af31505\loch\f0 Quit no save}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf1\kerning0\insrsid8224521\charrsid13850520 
-\par }\pard \ltrpar\ql \li388\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin388\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid14238379 \hich\af0\dbch\af31505\loch\f0 : q!  
+\par }\pard \ltrpar\ql \li388\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin388\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid14238379 \hich\af0\dbch\af31505\loch\f0 :q!  
 \par }\pard \ltrpar\ql \fi-15\li388\ri1372\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin1372\lin388\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid13850520 \hich\af0\dbch\af31505\loch\f0 Run }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf1\kerning0\insrsid13850520\charrsid13850520 \hich\af0\dbch\af31505\loch\f0 shell command inside text editor}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid13850520 \hich\af0\dbch\af31505\loch\f0  vi
 \par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521\charrsid14238379 \hich\af0\dbch\af31505\loch\f0 : ! <shellcommand>}{\rtlch\fcs1 \af0 \ltrch\fcs0 
@@ -3059,11 +3095,11 @@ n tha\'d2\loch\f1307 \hich\f1307 o v\'e3\loch\f1307 \hich\f1307 n ba\'d2\loch\f1
 \f0\kerning0\insrsid13850520\charrsid13850520 
 \par }\pard \ltrpar\ql \li381\ri0\sb271\nowidctlpar\wrapdefault\faauto\rin0\lin381\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Copy & Paste Command}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 : 
-\par }\pard \ltrpar\ql \li373\ri0\sb41\nowidctlpar\wrapdefault\faauto\rin0\lin373\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 yy}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\par }\pard \ltrpar\ql \li374\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin374\itap0\pararsid544424 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 yy}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid2901313 \hich\af0\dbch\af31505\loch\f0 Cop}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid2901313 
 \hich\af0\dbch\af31505\loch\f0 y}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid2901313 \hich\af0\dbch\af31505\loch\f0 
 current line}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 . 
-\par }\pard \ltrpar\ql \fi-354\li727\ri252\sb50\sl252\slmult1\nowidctlpar\wrapdefault\faauto\rin252\lin727\itap0 {\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf6\sub\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 yw}{\rtlch\fcs1 
+\par }\pard \ltrpar\ql \fi-360\li734\ri259\nowidctlpar\wrapdefault\faauto\rin259\lin734\itap0\pararsid544424 {\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf6\sub\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 yw}{\rtlch\fcs1 
 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf6\sub\kerning0\insrsid2901313 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid2901313 \hich\af0\dbch\af31505\loch\f0 Cop}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf1\kerning0\insrsid2901313 \hich\af0\dbch\af31505\loch\f0 y}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid2901313 
 \hich\af0\dbch\af31505\loch\f0 current word}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid3699406 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid3699406\charrsid3699406 \hich\af0\dbch\af31505\loch\f0 
@@ -3082,33 +3118,35 @@ with only lowercase}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid822452
 ed text before}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  the cursor. 
 \par }\pard \ltrpar\ql \li377\ri0\sb311\nowidctlpar\wrapdefault\faauto\rin0\lin377\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Search String}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 : 
-\par }\pard \ltrpar\ql \li367\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin367\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 /<}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf6\kerning0\insrsid8224521\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 string}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\par }\pard \ltrpar\ql \li367\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin367\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7880455\charrsid544424 \hich\af0\dbch\af31505\loch\f0 /<}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf6\kerning0\insrsid8224521\charrsid544424 \hich\af0\dbch\af31505\loch\f0 string}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7880455\charrsid544424 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 Searches forward}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  for string}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7880455 \hich\af0\dbch\af31505\loch\f0  (and special char like }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf6\kerning0\insrsid7880455\charrsid7880455 \\\hich\af0\dbch\af31505\loch\f0 n}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7880455 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
-\par }\pard \ltrpar\ql \li385\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin385\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf6\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 string}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf6\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\par }\pard \ltrpar\ql \li385\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin385\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid544424 \hich\af0\dbch\af31505\loch\f0 ?}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf6\kerning0\insrsid7880455\charrsid544424 \hich\af0\dbch\af31505\loch\f0 <}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid544424 \hich\af0\dbch\af31505\loch\f0 string}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf6\kerning0\insrsid7880455\charrsid544424 \hich\af0\dbch\af31505\loch\f0 >}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf1\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 Searches backward}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  for string  
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7880455 \hich\af0\dbch\af31505\loch\f0 n }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 continuously }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
-\b\f0\kerning0\insrsid1210093\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 searches}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0  in the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
-\b\f0\kerning0\insrsid7880455\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 same direction}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid7880455\charrsid7880455 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7880455 \hich\af0\dbch\af31505\loch\f0 N }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 continuously }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
-\b\f0\kerning0\insrsid1210093\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 searches}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0  in the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
-\b\f0\kerning0\insrsid7880455\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 opposite direction}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid7880455 
-\par }\pard \ltrpar\ql \fi19\li369\ri540\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin540\lin369\itap0\pararsid1210093 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :x,ys}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\cf6\kerning0\insrsid7880455\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 /}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 oldstring}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf6\kerning0\insrsid7880455\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 /}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 newstring}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7880455\charrsid544424 \hich\af0\dbch\af31505\loch\f0 n}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7880455 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 continuously }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\kerning0\insrsid1210093\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 searches}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0  in the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\kerning0\insrsid7880455\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 same direction}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\kerning0\insrsid7880455\charrsid7880455 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7880455\charrsid544424 \hich\af0\dbch\af31505\loch\f0 N}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7880455 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0 continuously }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\kerning0\insrsid1210093\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 searches}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\kerning0\insrsid7880455\charrsid7880455 \hich\af0\dbch\af31505\loch\f0  in the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\kerning0\insrsid7880455\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 opposite direction}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid7880455 
+\par }\pard \ltrpar\ql \fi19\li369\ri540\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin540\lin369\itap0\pararsid1210093 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid544424 \hich\af0\dbch\af31505\loch\f0 :x,ys}{\rtlch\fcs1 
+\ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7880455\charrsid544424 \hich\af0\dbch\af31505\loch\f0 /}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid544424 \hich\af0\dbch\af31505\loch\f0 oldstring}{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\cf6\kerning0\insrsid7880455\charrsid544424 \hich\af0\dbch\af31505\loch\f0 /}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid544424 \hich\af0\dbch\af31505\loch\f0 newstring}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 Replaces}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \hich\af0\dbch\af31505\loch\f0  oldstring with newstring }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 from line x to line}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1210093 
 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 y   (entering y = $ will replace to end of file)  
 \par }\pard \ltrpar\ql \li376\ri0\sb10\nowidctlpar\wrapdefault\faauto\rin0\lin376\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 <ESC><u>}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  Undoes last command  
-\par }\pard \ltrpar\ql \li376\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin376\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 <n>}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
-\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 Finds next}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
- occurrence of }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 string}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 . Repeats last command 
-
+\par }\pard \ltrpar\ql \li376\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin376\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid544424 \hich\af0\dbch\af31505\loch\f0 <n>}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 Finds next}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
+\hich\af0\dbch\af31505\loch\f0  occurrence of }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 string}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
+\hich\af0\dbch\af31505\loch\f0 . Repeats last command 
 \par }\pard \ltrpar\ql \li377\ri0\sb272\nowidctlpar\wrapdefault\faauto\rin0\lin377\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Set Command}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 : 
 \par }\pard \ltrpar\ql \li389\ri0\sb39\nowidctlpar\wrapdefault\faauto\rin0\lin389\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :set ic}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
@@ -3122,21 +3160,20 @@ ed text before}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hi
 \par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :set nu}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Displays lines with }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid7612821 \hich\af0\dbch\af31505\loch\f0 line numbers}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  on the left side. 
-\par }\pard \ltrpar\ql \fi-1007\li1396\ri163\sb50\sl252\slmult1\nowidctlpar\wrapdefault\faauto\rin163\lin1396\itap0 {\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf6\sub\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :set sw}{
-\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf1\sub\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Sets the width of a software }{\rtlch\fcs1 
-\ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid7612821 \hich\af0\dbch\af31505\loch\f0 tabstop}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
+\par }\pard \ltrpar\ql \fi-61\li450\ri163\sb50\sl252\slmult1\nowidctlpar\wrapdefault\faauto\rin163\lin450\itap0\pararsid544424 {\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf6\sub\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 
+:set sw}{\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf1\sub\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Sets the width of a software }{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521\charrsid7612821 \hich\af0\dbch\af31505\loch\f0 tabstop}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 . For example you would set a shift width of 4  with this command: }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :set sw=4}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  
-\par }\pard \ltrpar\ql \fi-1014\li1404\ri364\sb6\sl252\slmult1\nowidctlpar\wrapdefault\faauto\rin364\lin1404\itap0 {\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf6\sub\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :set ws}{
-\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf1\sub\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 If }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
-\i\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 wrapscan }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
-is set, if the word is not found at the bottom of the file, it will try to  search for it at the beginning. 
-\par }\pard \ltrpar\qr \li0\ri501\sb6\nowidctlpar\wrapdefault\faauto\rin501\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
-If this option has a value greater than zero, the editor will automatically "word  
-\par }\pard \ltrpar\ql \li389\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin389\itap0\pararsid1210093 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :set wm}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
-\b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 wrap". For example, to set the wrap margin to two characters, you would type  this: }{
-\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf19\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 set wm=2}{\rtlch\fcs1 
-\ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  
+\par }\pard \ltrpar\ql \fi-60\li450\ri364\sb6\sl252\slmult1\nowidctlpar\wrapdefault\faauto\rin364\lin450\itap0\pararsid544424 {\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf6\sub\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 
+:set ws}{\rtlch\fcs1 \ab\af0\afs40 \ltrch\fcs0 \b\f0\fs40\cf1\sub\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 If }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
+\i\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 wrapscan }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 is set, if the word is not found at the bottom of the file, it will try to}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid544424 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
+search for it at the beginning. If this option has a value greater than zero, the editor will automatically "word }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid544424 \hich\af0\dbch\af31505\loch\f0 wrap".}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid8224521 
+\par }\pard \ltrpar\ql \li389\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin389\itap0\pararsid1210093 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :set wm}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  For example, to set the wrap margin to two characters, you would type }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :}{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf19\kerning0\insrsid8224521\charrsid1210093 \hich\af0\dbch\af31505\loch\f0 set wm=2}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  
 \par }\pard \ltrpar\ql \li389\ri0\sb65\nowidctlpar\wrapdefault\faauto\rin0\lin389\itap0\pararsid7612821 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid8224521\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :set ro}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Changes file type to "read only"}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521\charrsid7612821 
@@ -3158,27 +3195,19 @@ If this option has a value greater than zero, the editor will automatically "wor
 \par }\pard \ltrpar\ql \li375\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin375\itap0\pararsid6760917 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid6760917\charrsid6760917 \hich\af0\dbch\af31505\loch\f0 :vertical resize +10}{\rtlch\fcs1 \af0 
 \ltrch\fcs0 \f0\cf1\kerning0\insrsid6760917\charrsid6760917 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid6760917 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid6760917\charrsid6760917 \hich\af0\dbch\af31505\loch\f0 Increase width by 10
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid6760917\charrsid6760917 \hich\af0\dbch\af31505\loch\f0 :vertical resize -}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid6760917\charrsid6760917 \hich\af0\dbch\af31505\loch\f0 10}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid6760917 \hich\af0\dbch\af31505\loch\f0   }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid6760917\charrsid6760917 \hich\af0\dbch\af31505\loch\f0 Decrease width by 10}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\kerning0\insrsid6760917 
-\par }\pard \ltrpar\ql \li375\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin375\itap0\pararsid1210093 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1210093 
-\par }\pard \ltrpar\ql \li375\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin375\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid13848910\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 :vs .}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
-\b\f0\cf1\kerning0\insrsid13848910\charrsid13848910 \hich\af0\dbch\af31505\loch\f0 / }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid13848910 \hich\af0\dbch\af31505\loch\f0 Open file in a folder
+\par }\pard \ltrpar\ql \li375\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin375\itap0\pararsid544424 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid6760917\charrsid6760917 \hich\af0\dbch\af31505\loch\f0 :vertical resize -10}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\cf1\kerning0\insrsid6760917 \hich\af0\dbch\af31505\loch\f0   }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid6760917\charrsid6760917 \hich\af0\dbch\af31505\loch\f0 Decrease width by 10}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\kerning0\insrsid1210093 
+\par }\pard \ltrpar\ql \li375\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin375\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid13848910\charrsid544424 \hich\af0\dbch\af31505\loch\f0 :vs ./}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf1\kerning0\insrsid13848910\charrsid13848910 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid13848910 \hich\af0\dbch\af31505\loch\f0 Open file in a folder
 \par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid13848910\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 vlib work
 \par \hich\af0\dbch\af31505\loch\f0 vsim work}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid13848910\charrsid6499329 
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid13848910\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 vlog *.v}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid13848910 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\cf1\kerning0\insrsid13848910 \hich\af0\dbch\af31505\loch\f0 Compile the .v file
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1210093 
-\par 
-\par 
-\par 
-\par 
-\par 
-\par 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid1210093\charrsid13848910 
-\par }\pard \ltrpar\ql \li378\ri0\sb271\nowidctlpar\wrapdefault\faauto\rin0\lin378\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid7612821 
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 TH}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7920\'3f}{\rtlch\fcs1 
-\ab\af0 \ltrch\fcs0 \b\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 \hich\f0 C H\'c0\loch\f0 NH: 
+\par }\pard \ltrpar\ql \li375\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin375\itap0\pararsid544424 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf6\kerning0\insrsid13848910\charrsid6499329 \hich\af0\dbch\af31505\loch\f0 vlog *.v}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf1\kerning0\insrsid13848910 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid13848910 \hich\af0\dbch\af31505\loch\f0 Compile the .v fil}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid544424 
+\hich\af0\dbch\af31505\loch\f0 e}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid544424\charrsid544424 
+\par }\pard \ltrpar\ql \li378\ri0\sb271\nowidctlpar\wrapdefault\faauto\rin0\lin378\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid544424 \page }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
+TH}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7920\'3f}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 C H\'c0\loch\f0 NH: 
 \par }\pard \ltrpar\ql \li396\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin396\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 1}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  T}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7841\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 
@@ -3189,7 +3218,7 @@ i th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033
 o ca\'ec\loch\f1307 \hich\f1307 c th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 
 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 c theo s\'f5\loch\f1307 \hich\f1307  \'f0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
 \loch\af0\dbch\af31505\hich\f0 \u7891\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  sau: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
-\par }\pard \ltrpar\ql \li369\ri0\sb19\nowidctlpar\wrapdefault\faauto\rin0\lin369\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li369\ri0\sb19\nowidctlpar\wrapdefault\faauto\rin0\lin369\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 2}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -4047,8 +4076,8 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 \loch\f1307 u v}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7899\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
 \hich\af0\dbch\af31505\loch\f0 \hich\f0 i t\'ea\loch\f0 n }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 text1.txt }{\rtlch\fcs1 \af1307 \ltrch\fcs0 
 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 trong th\'fd\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
-\loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 c  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid11282051 
-\hich\af0\dbch\af31505\loch\f0 cd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid2434935\charrsid11282051 
+\loch\af0\dbch\af31505\hich\f0 \u7909\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 c }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid5007351 
+\hich\af0\dbch\af31505\loch\f0 folderb}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid2434935\charrsid11282051 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 4}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{
 \rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  L\'fd\loch\f1307 u n}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7897\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 i dung c}{\rtlch\fcs1 
@@ -4088,7 +4117,7 @@ a text1.txt v}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0
 \loch\af0\dbch\af31505\hich\f0 \u7897\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  hi\'ea\'d2\loch\f1307 \hich\f1307 n thi\'f2\loch\f1307  s}{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7889\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
 \hich\af0\dbch\af31505\loch\f0  d}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \'f2\loch\f0 ng :  
-\par }\pard \ltrpar\ql \li1108\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1108\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 :set nu  
+\par }\pard \ltrpar\ql \li1108\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1108\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 :se\hich\af0\dbch\af31505\loch\f0 t nu  
 \par \hich\af0\dbch\af31505\loch\f0 :set nonu  
 \par }\pard \ltrpar\ql \li374\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin374\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 7}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307  L\'fd
@@ -4122,10 +4151,11 @@ a text1.txt v}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0
 \f0\cf1\kerning0\insrsid5379078 \hich\af0\dbch\af31505\loch\f0 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  Copy file }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 
 \hich\af0\dbch\af31505\loch\f0 vanban.doc }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 t}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
 \loch\af0\dbch\af31505\hich\f0 \u7915\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\cf1\kerning0\insrsid8224521 
-\hich\af0\dbch\af31505\loch\f0 foldera1 }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 sang }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 folderc1 }{
-\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 b\'e3\'cc\loch\f1307 \hich\f1307 ng 2 ca\'ec\loch\f1307 \hich\f1307 ch (chi\'d2\loch\f1307  m}{\rtlch\fcs1 
-\af0 \ltrch\fcs0 \f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7897\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 
-\hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 t command duy  nh\'e2\'ec\loch\f1307 t).}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
+\hich\af0\dbch\af31505\loch\f0 folder}{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\cf1\kerning0\insrsid9577339 \hich\af0\dbch\af31505\loch\f0 b}{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 sang }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 folderc1 }{\rtlch\fcs1 \af1307 \ltrch\fcs0 
+\f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 b\'e3\'cc\loch\f1307 \hich\f1307 ng 2 ca\'ec\loch\f1307 \hich\f1307 ch (chi\'d2\loch\f1307  m}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \loch\af0\dbch\af31505\hich\f0 \u7897\'3f}{\rtlch\fcs1 \af1307 \ltrch\fcs0 \f1307\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1307\dbch\af31505\loch\f1307 \hich\f1307 
+t command duy  nh\'e2\'ec\loch\f1307 t).}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }{\rtlch\fcs1 \ab\af1317\afs31 \ltrch\fcs0 \b\f1317\fs31\cf1\lang1066\langfe1033\kerning0\langnp1066\insrsid8224521 \hich\af1317\dbch\af31505\loch\f1317 \hich\f1317 3. L\'e2\'f2\loch\f1317 \hich\f1317 p Tri\'cc\loch\f1317 nh Shell }{\rtlch\fcs1 \af0 
 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }\pard \ltrpar\ql \li749\ri0\sb61\nowidctlpar\wrapdefault\faauto\rin0\lin749\itap0 {\rtlch\fcs1 \af46 \ltrch\fcs0 \f46\cf1\kerning0\insrsid8224521 \loch\af46\dbch\af31505\hich\f46 \u10070\'3f}{\rtlch\fcs1 \af45 \ltrch\fcs0 
@@ -4151,8 +4181,11 @@ ng [], $(()).  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521
 \par \hich\af0\dbch\af31505\loch\f0 sum=0
 \par \hich\af0\dbch\af31505\loch\f0 while [ $index -lt $N ]
 \par \hich\af0\dbch\af31505\loch\f0 do
-\par \hich\af0\dbch\af31505\loch\f0         index=$((index + 1))
-\par \hich\af0\dbch\af31505\loch\f0         sum=$((sum + index))
+\par \hich\af0\dbch\af31505\loch\f0         index=$((}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7412561\charrsid4534176 \hich\af0\dbch\af31505\loch\f0 $}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid4534176\charrsid4534176 
+\hich\af0\dbch\af31505\loch\f0 index + 1))
+\par \hich\af0\dbch\af31505\loch\f0         sum=$((}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7412561\charrsid4534176 \hich\af0\dbch\af31505\loch\f0 $}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid4534176\charrsid4534176 
+\hich\af0\dbch\af31505\loch\f0 sum + }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7412561\charrsid4534176 \hich\af0\dbch\af31505\loch\f0 $}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid4534176\charrsid4534176 
+\hich\af0\dbch\af31505\loch\f0 index))
 \par \hich\af0\dbch\af31505\loch\f0 done
 \par \hich\af0\dbch\af31505\loch\f0 echo "Sum from 1 to $N is $sum"
 \par \hich\af0\dbch\af31505\loch\f0 exit 0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\lang1066\langfe1033\kerning0\langnp1066\insrsid4534176\charrsid4534176 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
@@ -4182,8 +4215,11 @@ ng [], $(()).  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521
 \par \hich\af0\dbch\af31505\loch\f0 fact=1
 \par \hich\af0\dbch\af31505\loch\f0 while [ $index -lt $N ]
 \par \hich\af0\dbch\af31505\loch\f0 do
-\par \hich\af0\dbch\af31505\loch\f0  index=$((index + 1))
-\par \hich\af0\dbch\af31505\loch\f0  fact=$((fact * index))
+\par \hich\af0\dbch\af31505\loch\f0  index=$((}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7412561\charrsid4534176 \hich\af0\dbch\af31505\loch\f0 $}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid4534176\charrsid4534176 
+\hich\af0\dbch\af31505\loch\f0 index + 1))
+\par \hich\af0\dbch\af31505\loch\f0  fact=$((}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7412561\charrsid4534176 \hich\af0\dbch\af31505\loch\f0 $}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid4534176\charrsid4534176 
+\hich\af0\dbch\af31505\loch\f0 fact * }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid7412561\charrsid4534176 \hich\af0\dbch\af31505\loch\f0 $}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf6\kerning0\insrsid4534176\charrsid4534176 
+\hich\af0\dbch\af31505\loch\f0 index))
 \par \hich\af0\dbch\af31505\loch\f0 done
 \par \hich\af0\dbch\af31505\loch\f0 echo "Factorial: $N! = $fact"
 \par \hich\af0\dbch\af31505\loch\f0 exit 0
@@ -4197,7 +4233,7 @@ ng [], $(()).  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521
 \par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs22 \ltrch\fcs0 \f1\fs22\cf1\kerning0\insrsid8224521 
 \par 
 \par }\pard \ltrpar\ql \li111\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin111\itap0 {\rtlch\fcs1 \ab\af1\afs31 \ltrch\fcs0 \b\f1\fs31\cf1\kerning0\insrsid8224521 \hich\af1\dbch\af31505\loch\f1 4. Research modelSim tool Simulator 
-\par }\pard \ltrpar\ql \li2529\ri0\sb80\nowidctlpar\wrapdefault\faauto\rin0\lin2529\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li2529\ri0\sb80\nowidctlpar\wrapdefault\faauto\rin0\lin2529\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 3}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -5818,7 +5854,7 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff040000002701ffff030000000000}}}{\rtlch\fcs1 \ab\af1\afs31 \ltrch\fcs0 \b\f1\fs31\cf1\kerning0\insrsid8224521 
 
 \par }\pard \ltrpar\qr \li0\ri2977\nowidctlpar\wrapdefault\faauto\rin2977\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Figure 1: Basic Simulation flow. 
-\par }\pard \ltrpar\ql \li1089\ri0\sb267\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li1089\ri0\sb267\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 4}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -5831,8 +5867,8 @@ a0e858e8e455a84ba9b39829852e4da5a32e49970e3a19f0277e7ec1fa033ef00e87f372de972398
 {\pict\picscalex111\picscaley111\piccropl0\piccropr0\piccropt0\piccropb0\picw238\pich238\picwgoal135\pichgoal135\wmetafile8\bliptag-1357945127\blipupi95{\*\blipuid af0f66d9a6bc6136ff5f862d0d200d04}
 010009000003c702000000005702000000000400000003010800050000000b0200000000050000000c020a000a00030000001e00040000000701040004000000
 070104000800000026060f000600544e5050060137000000410b8600ee0009000900000000000900090000000000280000000900000009000000010001000000
-0000000000000000000000000000000000000000000000000000ffffff000e8000005f800000ff804ee5ff800000ff804ee51f0000003f8001001f0000003f80
-4ee557020000410bc600880009000900000000000900090000000000280000000900000009000000010008000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000ffffff000e8040005f804000ff800000ff800000ff8000001f0000003f8000001f0000003f80
+000057020000410bc600880009000900000000000900090000000000280000000900000009000000010008000000000000000000000000000000000000000000
 0000000000000000ffffff0012d1ff001fd2ff0046d8ff0017373f0096eaff00bdf1ff00d8f5ff0020d2ff0047daff00204a540095e9ff00bdf2ff00d8f7ff00
 47d9ff0095eaff009494ff007778ff00576bff003873ff00c152600042212500dc8b9300e9a8ac00f5bdbf00abaaff008e8fff007373ff005757ff00ff101100
 540d0e00ff5d5e00ff848500ffaaab00c1c1ff00a6a6ff006d6ec60021215400540505001b040400541e1f00542b2c0054383800b4b4ff007c7cff00540e0e00
@@ -5849,8 +5885,8 @@ ff0f0f0022050500ff5e5e00ffaaaa00000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-00000000010101012f30310132ffffff012c012d1e2e202122ffffff232425262728292a2bffffff1a1b1c1d1e1f202122ffffff111213141516171819ffffff
-010101090f0b100701ffffff010102090a0b0c070effffff010101090a0b0c0d01ffffff010102030405060708ffffff0800000026060f000600544e50500701040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
+00000000010101012f303101320146a2012c012d1e2e202122020000232425262728292a2b0000001a1b1c1d1e1f2021222600001112131415161718190146a2
+010101090f0b100701000000010102090a0b0c070e000000010101090a0b0c0d010000000101020304050607080000000800000026060f000600544e50500701040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 Create a working library 
 \par }\pard \ltrpar\ql \li1242\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1242\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 - create a new directory and copy file counter.v and tcounter.v from  
 \par }\pard \ltrpar\ql \fi277\li1242\ri380\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin380\lin1242\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid5788389 \hich\af0\dbch\af31505\loch\f0 /}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
@@ -5865,7 +5901,7 @@ Create a working library
 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 vlib work }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 and then typing  
 \par }\pard \ltrpar\ql \li1527\ri0\sb6\nowidctlpar\wrapdefault\faauto\rin0\lin1527\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 command }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 
 \hich\af0\dbch\af31505\loch\f0 vmap work work 
-\par }\pard \ltrpar\ql \li1089\ri0\sb269\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li1089\ri0\sb269\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 5}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -5878,8 +5914,8 @@ a0e858e8e455a84ba9b39829852e4da5a32e49970e3a19f0277e7ec1fa033ef00e87f372de972398
 {\pict\picscalex111\picscaley111\piccropl0\piccropr0\piccropt0\piccropb0\picw238\pich238\picwgoal135\pichgoal135\wmetafile8\bliptag-1357945127\blipupi95{\*\blipuid af0f66d9a6bc6136ff5f862d0d200d04}
 010009000003c702000000005702000000000400000003010800050000000b0200000000050000000c020a000a00030000001e00040000000701040004000000
 070104000800000026060f000600544e5050060137000000410b8600ee0009000900000000000900090000000000280000000900000009000000010001000000
-0000000000000000000000000000000000000000000000000000ffffff000e804ee55f800000ff804ee5ff800000ff8000001f0000003f8000001f0000003f80
-4ee557020000410bc600880009000900000000000900090000000000280000000900000009000000010008000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000ffffff000e8040005f804000ff800000ff800000ff8000001f0000003f8000001f0000003f80
+000057020000410bc600880009000900000000000900090000000000280000000900000009000000010008000000000000000000000000000000000000000000
 0000000000000000ffffff0012d1ff001fd2ff0046d8ff0017373f0096eaff00bdf1ff00d8f5ff0020d2ff0047daff00204a540095e9ff00bdf2ff00d8f7ff00
 47d9ff0095eaff009494ff007778ff00576bff003873ff00c152600042212500dc8b9300e9a8ac00f5bdbf00abaaff008e8fff007373ff005757ff00ff101100
 540d0e00ff5d5e00ff848500ffaaab00c1c1ff00a6a6ff006d6ec60021215400540505001b040400541e1f00542b2c0054383800b4b4ff007c7cff00540e0e00
@@ -5896,14 +5932,14 @@ ff0f0f0022050500ff5e5e00ffaaaa00000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-00000000010101012f30310132000000012c012d1e2e202122000000232425262728292a2b3140161a1b1c1d1e1f202122ffffff111213141516171819000000
-010101090f0b100701000000010102090a0b0c070e314016010101090a0b0c0d01ffffff0101020304050607080000000800000026060f000600544e50500701040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
+00000000010101012f30310132ef46a2012c012d1e2e202122000000232425262728292a2b3646a21a1b1c1d1e1f2021222600081112131415161718190746a2
+010101090f0b100701000000010102090a0b0c070e3746a2010101090a0b0c0d012600180101020304050607080746a20800000026060f000600544e50500701040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 Compile design units. 
 \par }\pard \ltrpar\qc \li1242\ri605\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin605\lin1242\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 - With the working library created, you are ready to compile your source files - Select Compile > Compile. This opens the Compile Source Files dialog. - Select both counter.v and tcounter.v modules from the Compile Source Files  dialog and click Compile. 
 \hich\af0\dbch\af31505\loch\f0 The files are compiled into the work library 
 \par }\pard \ltrpar\ql \li1242\ri0\sb6\nowidctlpar\wrapdefault\faauto\rin0\lin1242\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 - When compile is finished, click Done 
-\par }\pard \ltrpar\ql \li1089\ri0\sb271\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li1089\ri0\sb271\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 6}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -5916,8 +5952,8 @@ a0e858e8e455a84ba9b39829852e4da5a32e49970e3a19f0277e7ec1fa033ef00e87f372de972398
 {\pict\picscalex111\picscaley111\piccropl0\piccropr0\piccropt0\piccropb0\picw238\pich238\picwgoal135\pichgoal135\wmetafile8\bliptag-1357945127\blipupi95{\*\blipuid af0f66d9a6bc6136ff5f862d0d200d04}
 010009000003c702000000005702000000000400000003010800050000000b0200000000050000000c020a000a00030000001e00040000000701040004000000
 070104000800000026060f000600544e5050060137000000410b8600ee0009000900000000000900090000000000280000000900000009000000010001000000
-0000000000000000000000000000000000000000000000000000ffffff000e804ee55f800000ff804ee5ff800000ff8000001f0000003f8000001f0000003f80
-4ee557020000410bc600880009000900000000000900090000000000280000000900000009000000010008000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000ffffff000e8046a25f800000ff8046a2ff800000ff8000001f0000003f8000001f0000003f80
+46a257020000410bc600880009000900000000000900090000000000280000000900000009000000010008000000000000000000000000000000000000000000
 0000000000000000ffffff0012d1ff001fd2ff0046d8ff0017373f0096eaff00bdf1ff00d8f5ff0020d2ff0047daff00204a540095e9ff00bdf2ff00d8f7ff00
 47d9ff0095eaff009494ff007778ff00576bff003873ff00c152600042212500dc8b9300e9a8ac00f5bdbf00abaaff008e8fff007373ff005757ff00ff101100
 540d0e00ff5d5e00ff848500ffaaab00c1c1ff00a6a6ff006d6ec60021215400540505001b040400541e1f00542b2c0054383800b4b4ff007c7cff00540e0e00
@@ -5934,14 +5970,14 @@ ff0f0f0022050500ff5e5e00ffaaaa00000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-00000000010101012f30310132fcfcff012c012d1e2e202122fcfcff232425262728292a2bffffff1a1b1c1d1e1f202122ffffff111213141516171819ffffff
-010101090f0b100701ffffff010102090a0b0c070effffff010101090a0b0c0d01ffffff010102030405060708ffffff0800000026060f000600544e50500701040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
+00000000010101012f30310132ef46a2012c012d1e2e202122000000232425262728292a2b3646a21a1b1c1d1e1f2021222600081112131415161718190746a2
+010101090f0b100701000000010102090a0b0c070e3746a2010101090a0b0c0d012600180101020304050607080746a20800000026060f000600544e50500701040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 Load the design  
 \par }\pard \ltrpar\qc \li1242\ri744\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin744\lin1242\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 - Double click tcounter in the workspace window or typing command }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 vsim - voptargs="+acc" test_counter }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 in the Transcript window. The design is  
 \par }\pard \ltrpar\ql \li1526\ri0\sb6\nowidctlpar\wrapdefault\faauto\rin0\lin1526\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 loading. 
-\par }\pard \ltrpar\ql \li1089\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li1089\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1089\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 7}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -5954,8 +5990,8 @@ a0e858e8e455a84ba9b39829852e4da5a32e49970e3a19f0277e7ec1fa033ef00e87f372de972398
 {\pict\picscalex111\picscaley111\piccropl0\piccropr0\piccropt0\piccropb0\picw238\pich238\picwgoal135\pichgoal135\wmetafile8\bliptag-1357945127\blipupi95{\*\blipuid af0f66d9a6bc6136ff5f862d0d200d04}
 010009000003c702000000005702000000000400000003010800050000000b0200000000050000000c020a000a00030000001e00040000000701040004000000
 070104000800000026060f000600544e5050060137000000410b8600ee0009000900000000000900090000000000280000000900000009000000010001000000
-0000000000000000000000000000000000000000000000000000ffffff000e804ee55f800000ff804ee5ff800000ff8000001f0000003f8000001f0000003f80
-4ee557020000410bc600880009000900000000000900090000000000280000000900000009000000010008000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000ffffff000e8046a25f800000ff8046a2ff800000ff8000001f0000003f8000001f0000003f80
+46a257020000410bc600880009000900000000000900090000000000280000000900000009000000010008000000000000000000000000000000000000000000
 0000000000000000ffffff0012d1ff001fd2ff0046d8ff0017373f0096eaff00bdf1ff00d8f5ff0020d2ff0047daff00204a540095e9ff00bdf2ff00d8f7ff00
 47d9ff0095eaff009494ff007778ff00576bff003873ff00c152600042212500dc8b9300e9a8ac00f5bdbf00abaaff008e8fff007373ff005757ff00ff101100
 540d0e00ff5d5e00ff848500ffaaab00c1c1ff00a6a6ff006d6ec60021215400540505001b040400541e1f00542b2c0054383800b4b4ff007c7cff00540e0e00
@@ -5972,15 +6008,15 @@ ff0f0f0022050500ff5e5e00ffaaaa00000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-00000000010101012f30310132000000012c012d1e2e202122000000232425262728292a2b0000001a1b1c1d1e1f202122000000111213141516171819000000
-010101090f0b100701000000010102090a0b0c070e000000010101090a0b0c0d010000000101020304050607080000000800000026060f000600544e50500701040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
+00000000010101012f30310132ef46a2012c012d1e2e202122000000232425262728292a2b3646a21a1b1c1d1e1f2021222600081112131415161718190746a2
+010101090f0b100701000000010102090a0b0c070e3746a2010101090a0b0c0d012600180101020304050607080746a20800000026060f000600544e50500701040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 Run Simulations 
 \par }\pard \ltrpar\ql \li1242\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1242\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 - In the Workspace pane, select the sim tab 
 \par \hich\af0\dbch\af31505\loch\f0 - Right-click test_counter to open a popup context menu. 
 \par }\pard \ltrpar\ql \fi-281\li1524\ri276\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin276\lin1524\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 - Select Add > To Wave > All items in region. All signals in the design are added  to the Wave window.
 \par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs22 \ltrch\fcs0 \f1\fs22\cf1\kerning0\insrsid8224521 
-\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs22 \ltrch\fcs0 \f1\fs22\cf1\lang1024\langfe1024\kerning0\noproof\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs22 \ltrch\fcs0 \f1\fs22\cf1\lang1024\langfe1024\kerning0\noproof\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 8}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex96\picscaley102\piccropl0\piccropr0\piccropt0\piccropb0
@@ -6916,7 +6952,7 @@ abd10d51a019ee131e62e4449dba0f2aef5b151afaacbf70662b2d2d017426facce917d658a24bd4
 811eea1dd2aeeb7f8602e919590141e10d9f26c8debf980e61f6f292ff99deba3ae2a2808b02670f050ea51ff10f086d80fbecdfbf7fddba7534f48c9b6cce1e
 62b95ae2a2808b026d4801dc5bfb0fe89f9292e22cd3813ab7611daea25c147051c045819650c0e552d1122ab9f2b828e0a240db53c0c57dda9ea6ae125d1470
 51a0251470719f9650c995c745011705da9e022eeed3f6347595e8a2808b022da1808bfbb4844aae3c2e0ab828d0f61470719fb6a7a9ab4417055c146809055c
-dca7255472e57151c04581b6a7808bfbb43d4d5d25ba28e0a2404b28e0e23e2da1922b8f8b022e0ab43d05fe1f05113d6dc60589bb0000000049454e44ae426082}}{\nonshppict{\pict\picscalex97\picscaley102\piccropl0\piccropr0\piccropt0\piccropb0
+dca7255472e57151c04581b6a7808bfbb43d4d5d25ba28e0a2404b28e0e23e2da1922b8f8b022e0ab43d05fe1f05113d6dc60589bb0000000049454e44ae426082}}{\nonshppict{\pict\picscalex96\picscaley102\piccropl0\piccropr0\piccropt0\piccropb0
 \picw8107\pich6477\picwgoal4596\pichgoal3672\wmetafile8\bliptag886096873\blipupi119{\*\blipuid 34d0c3e9393b8cde67aed38acac66269}
 010009000003cab002000000a1b0020000000400000003010800050000000b0200000000050000000c02f6003301030000001e00040000000701040004000000
 07010400a1b00200410b2000cc0032017f0100000000f500320100000000280000007f0100003201000001001800000000000061050000000000000000000000
@@ -12433,7 +12469,7 @@ ffffff0000007373737b7b7b7373737b7b7b7373737b7b7b7373737b7b7b7373737b7b7b7373737b
 \par }\pard \ltrpar\qr \li0\ri1283\nowidctlpar\wrapdefault\faauto\rin1283\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Figure 2: Using the Popup Menu to Add Signals to Wave Window 
 \par }\pard \ltrpar\ql \fi-714\li1453\ri308\sb267\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin308\lin1453\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 - Click the Run icon in the Main or Wave window toolbar or Enter run 500 at the  VSIM> prompt in the Main window. 
-\par }\pard \ltrpar\ql \fi-714\li1453\ri308\sb267\nowidctlpar\wrapdefault\faauto\rin308\lin1453\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1024\langfe1024\kerning0\noproof\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \fi-714\li1453\ri308\sb267\nowidctlpar\wrapdefault\faauto\rin308\lin1453\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\lang1024\langfe1024\kerning0\noproof\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 9}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex101\picscaley97\piccropl0\piccropr0\piccropt0\piccropb0
@@ -12940,7 +12976,7 @@ b2a5ac6eed6d72fa92a0948094809400126876b4bdeaeaabafbdeaf281fd6b2cb490a29712901290
 09480948099cb912b8e9a69bfaf56b4af5b6963d7ecf5ce948cea504a404a404daac04a42b559bed1ac99894809440bb928044db76d59db231520252026d5602
 126ddb6cd748c6a404a404da950424dab6abee948d9112901268b3129068db66bb463226252025d0ae2420d1b65d75a76c8c948094409b958044db36db359231
 2901298176250189b6edaa3b6563a404a404daac0424dab6d9ae918c49094809b42b0948b46d57dd291b23252025d0662520d1b6cd768d644c4a404aa05d4940
-a26dbbea4ed91829012981362b0189b66db66b246352025202ed4a02126ddb5577cac648094809b4590948b46db35d231993129012685712f87f4d72778a30e1c5780000000049454e44ae426082}}{\nonshppict{\pict\picscalex101\picscaley98\piccropl0\piccropr0\piccropt0\piccropb0
+a26dbbea4ed91829012981362b0189b66db66b246352025202ed4a02126ddb5577cac648094809b4590948b46db35d231993129012685712f87f4d72778a30e1c5780000000049454e44ae426082}}{\nonshppict{\pict\picscalex101\picscaley97\piccropl0\piccropr0\piccropt0\piccropb0
 \picw9800\pich4657\picwgoal5556\pichgoal2640\wmetafile8\bliptag812288039\blipupi119{\*\blipuid 306a882772fdcfda366738a3bc3dfb82}
 0100090000036a56020000004156020000000400000003010800050000000b0200000000050000000c02b1007301030000001e00040000000701040004000000
 0701040041560200410b2000cc00dc00cf0100000000b00072010000000028000000cf010000dc000000010018000000000040ac040000000000000000000000
@@ -17730,7 +17766,7 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
 \par }\pard \ltrpar\ql \fi-714\li1453\ri308\sb267\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin308\lin1453\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
-\par }\pard \ltrpar\qr \li0\ri2083\sb28\nowidctlpar\wrapdefault\faauto\rin2083\lin0\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\qr \li0\ri2083\sb28\nowidctlpar\wrapdefault\faauto\rin2083\lin0\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 10}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -17738,7 +17774,7 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 89504e470d0a1a0a0000000d49484452000000010000000108060000001f15c489000000017352474200aece1ce90000000467414d410000b18f0bfc6105000000097048597300000ec300000ec301c76fa8640000000d49444154185763f8ffff37030008f402fab2cedd260000000049454e44ae426082}}{\nonshppict
 {\pict\picscalex1000\picscaley1000\piccropl0\piccropr0\piccropt0\piccropb0\picw26\pich26\picwgoal15\pichgoal15\wmetafile8\bliptag-1009700544\blipupi95{\*\blipuid c3d13140e4ebc2f0ab6ca26f6561730e}
 0100090000032100000000000500000000000400000003010800050000000b0200000000050000000c0202000200030000001e00040000002701ffff030000000000}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 
-\par }\pard \ltrpar\ql \li2169\ri0\sb125\nowidctlpar\wrapdefault\faauto\rin0\lin2169\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li2169\ri0\sb125\nowidctlpar\wrapdefault\faauto\rin0\lin2169\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 11}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -17751,7 +17787,7 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 \par }\pard \ltrpar\ql \li111\ri0\sb246\nowidctlpar\wrapdefault\faauto\rin0\lin111\itap0 {\rtlch\fcs1 \ab\af1\afs31 \ltrch\fcs0 \b\f1\fs31\cf1\kerning0\insrsid8224521 \hich\af1\dbch\af31505\loch\f1 5. Automating Simulation 
 \par }\pard \ltrpar\qj \li374\ri138\sb55\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin138\lin374\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 
 DO files are scripts that allow you to execute many commands at once. You can execute DO  files from within the GUI or you can run them from the system command prompt without  ever invoking the GUI. 
-\par }\pard \ltrpar\ql \li729\ri0\sb10\nowidctlpar\wrapdefault\faauto\rin0\lin729\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid1711966\charrsid1711966 {\*\shppict
+\par }\pard \ltrpar\ql \li729\ri0\sb10\nowidctlpar\wrapdefault\faauto\rin0\lin729\itap0 {\rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\kerning0\noproof\langnp9\insrsid14228555\charrsid14228555 {\*\shppict
 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 12}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -17785,7 +17821,7 @@ Creating a Simple DO File
 \par }\pard \ltrpar\ql \fi10\li729\ri139\sl228\slmult1\nowidctlpar\wrapdefault\faauto\rin139\lin729\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\cf1\kerning0\insrsid8224521 \hich\af1\dbch\af31505\loch\f1 - }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 Execute the DO file: Enter }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 do sim.do }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\cf1\kerning0\insrsid8224521 \hich\af0\dbch\af31505\loch\f0 at the VSIM> prompt. ModelSim loads the  design, executes the saved commands and draws the waves in the Wave window. }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\cf1\lang1024\langfe1024\kerning0\noproof\insrsid1711966\charrsid1711966 {\*\shppict{\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+\f0\cf1\lang1024\langfe1024\kerning0\noproof\insrsid14228555\charrsid14228555 {\*\shppict{\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
 {\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn fLockAgainstSelect}{\sv 0}}
 {\sp{\sn fLockCropping}{\sv 0}}{\sp{\sn fLockVerticies}{\sv 0}}{\sp{\sn fLockAgainstGrouping}{\sv 0}}{\sp{\sn pictureGray}{\sv 0}}{\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
 {\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 13}}{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
@@ -17992,10 +18028,10 @@ fffffffffffffffffdffffff04000000feffffff05000000fefffffffeffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff010000000c6ad98892f1d411a65f0040963251e50000000000000000000000006093
-bbd4bcfadb0103000000c0020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff0200000000000000000000000000000000000000000000006093bbd4bcfadb01
-6093bbd4bcfadb01000000000000000000000000da003200d0004e00de004a00ca004e0047005500ca00cb00d600c000d6004d004f0033005700cc00c400d0003d003d000000000000000000000000000000000032000101ffffffffffffffff0300000000000000000000000000000000000000000000006093bbd4bcfa
-db016093bbd4bcfadb010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff010000000c6ad98892f1d411a65f0040963251e5000000000000000000000000102c
+cd4aa41fdc0103000000c0020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff020000000000000000000000000000000000000000000000102ccd4aa41fdc01
+102ccd4aa41fdc01000000000000000000000000da003200d0004e00de004a00ca004e0047005500ca00cb00d600c000d6004d004f0033005700cc00c400d0003d003d000000000000000000000000000000000032000101ffffffffffffffff030000000000000000000000000000000000000000000000102ccd4aa41f
+dc01102ccd4aa41fdc010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
 00000000000000000000000000000000210100000000000001000000020000000300000004000000feffffff060000000700000008000000090000000a000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
