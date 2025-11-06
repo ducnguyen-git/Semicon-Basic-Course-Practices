@@ -1,5 +1,5 @@
-// null_address.v
-module null_address;
+// mixed_address.v
+module mixed_address;
   localparam DATA_WIDTH = 8;
   localparam ADDR_WIDTH = 8;
   
